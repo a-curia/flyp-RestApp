@@ -1,0 +1,12 @@
+inspect
+__spec__
+util
+__file__
+exc
+__name__
+_self_inspects
+_registrars
+__builtins__
+__cached__
+_inspects
+__package__

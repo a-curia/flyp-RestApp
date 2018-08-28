@@ -1,0 +1,16 @@
+sys
+warnings
+re
+__name__
+__builtins__
+__file__
+__package__
+__cached__
+mx
+__path__
+zxJDBC
+Connector
+pyodbc
+com
+mxodbc
+__spec__

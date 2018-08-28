@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskREST-API", "FlaskREST-API\FlaskREST-API.pyproj", "{38555DF9-BE61-4727-A43D-B5A53D2D7CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38555DF9-BE61-4727-A43D-B5A53D2D7CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38555DF9-BE61-4727-A43D-B5A53D2D7CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38555DF9-BE61-4727-A43D-B5A53D2D7CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38555DF9-BE61-4727-A43D-B5A53D2D7CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F669BF41-C252-4F94-93F9-35FBEDFA4CB8}
+	EndGlobalSection
+EndGlobal
